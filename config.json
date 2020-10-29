@@ -1,0 +1,10 @@
+{
+    "time_period": 10,
+    "plug": {
+        "ip": *plug_ip*
+    },
+    "udp": {
+        "ip": *server_ip*,
+        "port": *server_port*
+    }
+}
